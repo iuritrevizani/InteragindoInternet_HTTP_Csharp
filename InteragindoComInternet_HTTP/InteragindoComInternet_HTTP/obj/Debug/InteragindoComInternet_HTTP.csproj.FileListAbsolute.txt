@@ -1,0 +1,10 @@
+C:\Users\darkz\OneDrive\Área de Trabalho\projeto4InteragindoInter_com_C#eHTTP\InteragindoComInternet_HTTP\InteragindoComInternet_HTTP\bin\Debug\InteragindoComInternet_HTTP.exe.config
+C:\Users\darkz\OneDrive\Área de Trabalho\projeto4InteragindoInter_com_C#eHTTP\InteragindoComInternet_HTTP\InteragindoComInternet_HTTP\bin\Debug\InteragindoComInternet_HTTP.exe
+C:\Users\darkz\OneDrive\Área de Trabalho\projeto4InteragindoInter_com_C#eHTTP\InteragindoComInternet_HTTP\InteragindoComInternet_HTTP\bin\Debug\InteragindoComInternet_HTTP.pdb
+C:\Users\darkz\OneDrive\Área de Trabalho\projeto4InteragindoInter_com_C#eHTTP\InteragindoComInternet_HTTP\InteragindoComInternet_HTTP\obj\Debug\InteragindoComInternet_HTTP.csproj.AssemblyReference.cache
+C:\Users\darkz\OneDrive\Área de Trabalho\projeto4InteragindoInter_com_C#eHTTP\InteragindoComInternet_HTTP\InteragindoComInternet_HTTP\obj\Debug\InteragindoComInternet_HTTP.csproj.CoreCompileInputs.cache
+C:\Users\darkz\OneDrive\Área de Trabalho\projeto4InteragindoInter_com_C#eHTTP\InteragindoComInternet_HTTP\InteragindoComInternet_HTTP\obj\Debug\InteragindoComInternet_HTTP.exe
+C:\Users\darkz\OneDrive\Área de Trabalho\projeto4InteragindoInter_com_C#eHTTP\InteragindoComInternet_HTTP\InteragindoComInternet_HTTP\obj\Debug\InteragindoComInternet_HTTP.pdb
+C:\Users\darkz\OneDrive\Área de Trabalho\projeto4InteragindoInter_com_C#eHTTP\InteragindoComInternet_HTTP\InteragindoComInternet_HTTP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\darkz\OneDrive\Área de Trabalho\projeto4InteragindoInter_com_C#eHTTP\InteragindoComInternet_HTTP\InteragindoComInternet_HTTP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\darkz\OneDrive\Área de Trabalho\projeto4InteragindoInter_com_C#eHTTP\InteragindoComInternet_HTTP\InteragindoComInternet_HTTP\obj\Debug\InteragindoComInternet_HTTP.csproj.CopyComplete
